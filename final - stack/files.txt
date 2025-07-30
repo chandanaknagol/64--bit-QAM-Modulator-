@@ -1,0 +1,17 @@
+modulator_64qam_top.v
+spi/spi_interface.v
+baseband/baseband.v
+cdc/cdc8bit/fifo_v2_8bit.v
+cdc/cdc8bit/fifo_8bitmemory.v
+cdc/cdc10bit/fifo_v2_10bit.v
+cdc/cdc10bit/fifo_10bitmemory.v
+cdc/sync_fifo.v
+cdc/write_handler.v
+cdc/read_handler.v
+reset_module.v
+sync_fifo.v
+dsp_module/dsp_interface.v
+dsp_module/OutputStorageAndValidation.v
+dsp_module/FIRFilter.v
+dsp_module/DSPSlice.v
+dsp_module/upsampler.v
